@@ -24,4 +24,4 @@ To use the client, cd to the **client** folder and use one of the commands. For 
 ```
 dotnet client kg2lb 100
 ```
-The server should respond `100 kg is 220.4623lbs`.
+The server should respond `100 kg is 220.4623 lbs`.
