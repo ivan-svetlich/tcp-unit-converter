@@ -13,7 +13,8 @@ Supported commands:
 
 ## Technologies
 * C#
-* .NET
+* .NET 6
+* TCP
 
 ## Usage
 To start the TCP server, cd to the **server** folder and run:
