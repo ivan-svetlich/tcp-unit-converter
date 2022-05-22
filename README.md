@@ -23,8 +23,12 @@ dotnet server
 ```
 You should see the message `Waiting for a connection`, indicating that the server is listening.
 
-To use the client, cd to the **client** folder and use one of the commands. For example, to convert 100 kg to punds:
+To use the client, cd to the **client** folder and run:
 ```
-dotnet client kg2lb 100
+dotnet client
+```
+If a connection was established, you'll be asked to enter a message. For example, to convert 100 kg to punds:
+```
+Enter your message: kg2lb 100
 ```
 The server should respond `100 kg is 220.4623 lbs`.
