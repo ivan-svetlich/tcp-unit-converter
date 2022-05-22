@@ -1,5 +1,7 @@
 # TCP Unit Converter
-Simple TCP server and client for unit conversion. Supported commands:
+Simple TCP server and client for unit conversion. 
+
+Supported commands:
 | Command | Argument | Description  |
 | :---: |:---:| :--- |
 | `lb2kg` | number | from pounds to kilograms |
